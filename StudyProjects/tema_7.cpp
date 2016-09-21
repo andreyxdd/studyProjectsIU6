@@ -22,7 +22,7 @@ int main(){
 	string str;
 	cout << "Enter the string:\n";
 	getline(cin,str);
-	
+	cout << "kek\n";
 	system("pause");
 	return 0;
 }
